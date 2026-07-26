@@ -31,7 +31,7 @@ The network is built around a central routing hub (R1) connecting three primary 
 
 ## 🚀 How to Run the Simulation
 1. Clone this repository to your local machine.
-2. Open `campus_network.pkt` using Cisco Packet Tracer (Version [Insert Version] or higher).
+2. Open `SimpleCollegeNetwork.pkt` using Cisco Packet Tracer (Version 9.0.0 or higher).
 3. **Test DHCP:** Open any laptop in Classroom 1, toggle the IP configuration to Static, then back to DHCP. It will pull a `172.16.10.x` address.
 4. **Test Routing & DNS:** Open the web browser on the Staff PC (`192.168.0.10`) and navigate to `academics.fcicollege.edu`.
 
